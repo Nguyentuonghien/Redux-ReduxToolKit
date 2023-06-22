@@ -8,7 +8,7 @@ interface BlogState {
 }
 
 const initialState: BlogState = {
-  postList: initalPostList, // giá trị khởi tạo mặc định
+  postList: initalPostList, // giá trị khởi tạo  mặc định
   editingPost: null
 }
 
